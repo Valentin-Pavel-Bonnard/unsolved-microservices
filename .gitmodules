@@ -1,0 +1,4 @@
+[submodule "microservices/web-api/src/libs"]
+	path = microservices/web-api/src/libs
+	url = git@github.com:Valentin-Pavel-Bonnard/unsolved-libs.git
+	branch = main
